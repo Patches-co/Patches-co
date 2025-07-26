@@ -59,9 +59,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Patches-co/Patches-co/output/snake.svg" alt="Snake animation" />
-
-###
 
 <!--
 **Patches-co/Patches-co** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
