@@ -5,7 +5,7 @@
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Patches-co&color=blue&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-<p>🎓 Sou estudante de Engenharia da Computação na UFMS<br/>🧠 Possuo um grande interesse nas áreas de cybersecurity e no desenvolvimento de games</p>
+<p>🎓 Sou estudante de Engenharia da Computação na UFMS<br/>🧠 Possuo um grande interesse nas áreas de Cybersecurity e no Game Development</p>
 
 <p align="center">
   <a href="#" title="Gmail">
