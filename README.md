@@ -8,8 +8,7 @@
 <p>🎓 Sou estudante de Engenharia da Computação na UFMS;<br/>🧠 Possuo um grande interesse nas áreas de Cybersecurity e Game Development.</p>
 
 ### Linguagens e Ferramentas:
-
-<img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=patches-co&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Entre em contato!
