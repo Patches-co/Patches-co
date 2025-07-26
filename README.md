@@ -3,10 +3,6 @@
 
 ### Olá, meu nome é Pacheco! 👋
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=Patches-co&color=blue&style=for-the-badge&logo=GitHub" alt="Static GitHub">
-
-<p>🎓 Sou estudante de Engenharia da Computação na UFMS;<br/>🧠 Possuo um grande interesse nas áreas de Cybersecurity e Game Development.</p>
-
 <p align="center">
   <a href="#" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=jvvpacheco@gmail.com" alt="Gmail"/></a>
@@ -19,6 +15,12 @@
   <a href="#" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
 </p>
+
+<img src="https://img.shields.io/static/v1?label=Overview&message=Patches-co&color=blue&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+
+<p>🎓 Sou estudante de Engenharia da Computação na UFMS;<br/>🧠 Possuo um grande interesse nas áreas de Cybersecurity e Game Development.</p>
+
+
 
 <!--
 **Patches-co/Patches-co** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
