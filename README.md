@@ -18,7 +18,7 @@
 
 ###
 
-<h1 align="center">Olá! Eu sou o Pacheco!</h1>
+<h1 align="center">Olá, eu sou o Pacheco!</h1>
 
 ###
 
