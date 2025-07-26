@@ -3,7 +3,7 @@
 
 ### Olá, meu nome é Pacheco!
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=Patches-co&color=white&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=Patches-co&theme=github_dark&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 <p>🎓 Sou estudante de Engenharia da Computação na UFMS<br/>🧠 Possuo um grande interesse nas áreas de cybersecurity e no desenvolvimento de games</p>
 
