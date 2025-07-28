@@ -7,7 +7,7 @@
 
 <p>🎓 Sou estudante de Engenharia da Computação na UFMS;<br/>🧠 Possuo um grande interesse nas áreas de Cybersecurity e Game Development.</p>
 
-### Linguagens e Ferramentas:
+### Algumas Linguagens e Ferramentas que uso:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patches-co&layout=compact&theme=github_dark)
 
